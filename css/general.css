@@ -1,3 +1,47 @@
 @charset "UTF-8";
 /* CSS Document */
 
+html {
+	background-color: #CCC;
+	font-size: 100%;
+
+}
+
+body {
+	margin: 0 auto;
+	width: 80%;
+	min-width: 240px;
+	max-width: 900px;
+	
+	font-family:Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+}
+
+img {
+	width: 80%;
+}
+
+figcaptiom{
+	font-size: 80%;
+	color:#666;
+	background-color:#CCC; 
+}
+
+h1{
+	color:#603;
+}
+
+blockquote{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	background-color: #ccc;
+}
+
+cite{
+	color:#666;
+	
+	/*move to display right*/
+}
+
+h2{
+	color:#603;
+}
